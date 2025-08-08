@@ -17,7 +17,7 @@ The model is a **fully‑connected neural network (PyTorch)** for multi‑class 
 - `data/processed/` – Processed dataset used by the dashboard (`loan_predictions_final_clean.xlsx`)  
 - `dashboard/` – Tableau workbook (`Loan Grade Prediction Analysis.twb`) + screenshot  
 - `notebooks/` – `# End-to-End Credit Risk Scoring: From Data Cleaning to Dashboard.ipynb` (cleaning → modeling → export)  
-- `reports/` – Final PDF report
+- `reports/`End-to-End Credit Risk Scoring  From Data Cleaning to Business Dashboard with a Neural  – Final PDF report
 
 ## Model
 - **Type:** Fully‑connected neural network (feed‑forward MLP) in **PyTorch**  
